@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "173112813350",
+    "project_id": "priceupdate-5cba1",
+    "storage_bucket": "priceupdate-5cba1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173112813350:android:cfa7a91dc178bb25ee83e7",
+        "android_client_info": {
+          "package_name": "com.priceupdate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPesysFmHA31kRNHN91LXpFJe1Fiok5O4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
